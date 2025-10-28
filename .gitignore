@@ -1,0 +1,4 @@
+src/resources/_gen
+src/public/css/main.min.*
+src/public/js/main.*.js
+src/.hugo_build.lock
