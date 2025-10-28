@@ -14,3 +14,22 @@ section.gallery {
   border-style: solid;
   border-width: 2px;
 }
+
+:root {
+  color-scheme: light dark;
+  --surface-1-light: #fff;
+  --surface-2-light: #e5e5e5;
+  --text-1-light: #0a0a0a;
+  --text-2-light: #737373;
+  --border-light: #a3a3a3;
+  --surface-1-dark: #0a0a0a;
+  --surface-2-dark: #404040;
+  --text-1-dark: #a3a3a3;
+  --text-2-dark: #a3a3a3;
+  --border-dark: #a3a3a3;
+  --surface-1: var(--surface-1-light);
+  --surface-2: var(--surface-2-light);
+  --text-1: var(--text-1-light);
+  --text-2: var(--text-2-light);
+  --border: var(--border-light);
+}
