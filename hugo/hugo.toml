@@ -2,3 +2,4 @@ baseURL = 'https://goos.photos/'
 languageCode = 'en-us'
 title = 'goos.photos'
 theme = 'gallery'
+disableKinds = ['taxonomy','term']
