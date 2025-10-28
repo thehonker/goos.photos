@@ -2,3 +2,4 @@ hugo/resources/_gen
 hugo/public/css/main.min.*
 hugo/public/js/main.*.js
 hugo/.hugo_build.lock
+hugo/public
