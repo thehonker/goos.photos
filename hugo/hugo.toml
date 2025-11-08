@@ -16,3 +16,6 @@ enableRobotsTXT = true
 
 [params]
   defaultTheme = "dark"
+
+[params.meta]
+  favicon = false
